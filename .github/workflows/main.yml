@@ -1,19 +1,5 @@
 name: Generate Datas
 
-GITHUB_TOKEN Permissions
-  Actions: write
-  Checks: write
-  Contents: write
-  Deployments: write
-  Discussions: write
-  Issues: write
-  Metadata: read
-  Packages: write
-  PullRequests: write
-  RepositoryProjects: write
-  SecurityEvents: write
-  Statuses: write
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"

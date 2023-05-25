@@ -5,8 +5,7 @@
      Sou um estudante de análise e desenvolvimento de sistemas apaixonado por programação, com ênfase em back-end.</br>
      Estou constantemente explorando o mundo da tecnologia e aprimorando minhas habilidades em desenvolvimento de software.</br> 
      Sempre em busca de novos desafios, estou animado para contribuir com soluções escaláveis e eficientes. </br></br>
-        <a href="https://www.linkedin.com/in/gabriel-santos-b53612227/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/gabriel-santos-b53612227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </a>
   </i>
 </p> 

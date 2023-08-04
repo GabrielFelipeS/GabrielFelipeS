@@ -19,21 +19,18 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/GabrielFelipeS)
 
 
-### Tecnologias
+### Tecnologias e Framworks 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GabrielFelipeS)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielFelipeS)
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/GabrielFelipeS) -->
 
-### OS <img src="https://th.bing.com/th/id/R.0fcbc1380014a0c504d7d76751da70c7?rik=wxoMNDUsaXZ60g&riu=http%3a%2f%2fwww.aaanimations.com%2fwindowsxpdog22dp.gif&ehk=iCg79Cf%2fkos%2fn%2fQHiuvRfhx9zMe8xX4tCz0kSx1IR0M%3d&risl=&pid=ImgRaw&r=0" width="21px">
+### Ferramentas <img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0297.gif" width="21px">
+
+### Sistemas Operacionais <img src="https://th.bing.com/th/id/R.0fcbc1380014a0c504d7d76751da70c7?rik=wxoMNDUsaXZ60g&riu=http%3a%2f%2fwww.aaanimations.com%2fwindowsxpdog22dp.gif&ehk=iCg79Cf%2fkos%2fn%2fQHiuvRfhx9zMe8xX4tCz0kSx1IR0M%3d&risl=&pid=ImgRaw&r=0" width="21px">
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GabrielFelipeS)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GabrielFelipeS)
 
-<!-- <a>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelipeS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="180em" color="blue" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipeS&layout=compact&langs_count=7&theme=dracula"/>
-      </a>
-   </div></br> -->
-<picture>
+<!--<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -46,8 +43,12 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
 
 <details>
     <h2>Estatisticas <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="21px" alt="Git"></h2> 
@@ -61,10 +62,9 @@
     <a href="https://github.com/GabrielFelipeS">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielFelipeS&theme=transparent" />
     </a>
-      <!--
-    <a href="https://github.com/GabrielFelipeS">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipeS&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  -->
+      <p align="center">
+        <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipeS&amp;langs_count=6&amp;theme=transparent&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
+      </p>
     </a>
   </p>
 </details>

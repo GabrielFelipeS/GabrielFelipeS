@@ -10,7 +10,7 @@
   </i>
 </p> 
 
-### Linguagens
+## Linguagens <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="21px">
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/GabrielFelipeS)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/GabrielFelipeS)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/GabrielFelipeS)
@@ -19,16 +19,16 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/GabrielFelipeS)
 
 
-### Tecnologias <!-- e Frameworks -->
+### Tecnologias
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GabrielFelipeS)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielFelipeS)
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/GabrielFelipeS) -->
 
-### OS
+### OS <img src="https://th.bing.com/th/id/R.0fcbc1380014a0c504d7d76751da70c7?rik=wxoMNDUsaXZ60g&riu=http%3a%2f%2fwww.aaanimations.com%2fwindowsxpdog22dp.gif&ehk=iCg79Cf%2fkos%2fn%2fQHiuvRfhx9zMe8xX4tCz0kSx1IR0M%3d&risl=&pid=ImgRaw&r=0" width="21px">
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GabrielFelipeS)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GabrielFelipeS)
 
-    <a>
+<!-- <a>
           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelipeS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="180em" color="blue" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipeS&layout=compact&langs_count=7&theme=dracula"/>
       </a>
@@ -50,6 +50,7 @@
 
 
 <details>
+    <h2>Estatisticas <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="21px" alt="Git"></h2> 
     <p align="center">
     <a href="https://github.com/GabrielFelipeS">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielFelipeS&theme=transparent" />

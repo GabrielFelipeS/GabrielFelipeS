@@ -28,16 +28,25 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GabrielFelipeS)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GabrielFelipeS)
 
-
-  <!--<div align="center" >
-  ![Snake animation](https://github.com/GabrielFelipeS/GabrielFelipeS/blob/output/github-contribution-grid-snake.svg)
-
-      <a>
+    <a>
           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelipeS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="180em" color="blue" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipeS&layout=compact&langs_count=7&theme=dracula"/>
       </a>
-   </div></br> --> 
-
+   </div></br> -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 <details>

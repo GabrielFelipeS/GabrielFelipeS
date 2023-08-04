@@ -24,7 +24,6 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/GabrielFelipeS)
 [![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/GabrielFelipeS)
 
-<img src="https://cdn.dribbble.com/users/33000/screenshots/19339981/media/d2a06ca7350d1e975d5dc781862ca9c9.gif" width="21px">
 
 ### Tecnologias e Framworks 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GabrielFelipeS)

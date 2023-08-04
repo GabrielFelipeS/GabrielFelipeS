@@ -4,8 +4,13 @@
   <i>
      Sou um estudante de análise e desenvolvimento de sistemas apaixonado por programação, com ênfase em back-end.</br>
      Estou constantemente explorando o mundo da tecnologia e aprimorando minhas habilidades em desenvolvimento de software.</br> 
-     Sempre em busca de novos desafios, estou animado para contribuir com soluções escaláveis e eficientes. </br></br>
+     Sempre em busca de novos desafios, estou animado para contribuir com soluções escaláveis e eficientes. 
+    <div align="center">
+     <p>
+        <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
+     </p>
     <a href="https://www.linkedin.com/in/gabriel-santos-b53612227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    </div> 
     <!-- 
       https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black 
       https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
@@ -15,7 +20,7 @@
 </p> 
 
 <!-- [![]()](https://github.com/GabrielFelipeS) -->
-## Linguagens <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="21px">
+## Linguagens de programação <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px">
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/GabrielFelipeS)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/GabrielFelipeS)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/GabrielFelipeS)
@@ -25,24 +30,42 @@
 [![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/GabrielFelipeS)
 
 
-### Tecnologias e Framworks 
+### Tecnologias e Framworks <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>
+
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GabrielFelipeS)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielFelipeS)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Hibernate](https://img.shields.io/badge/Hibernate-3A33D1?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/GabrielFelipeS)
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/GabrielFelipeS) -->
-
-### Ferramentas <img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0297.gif" width="21px">
+<!--<img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0297.gif" width="21px">-->
+### IDEs <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  </picture>
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Pycharm](https://img.shields.io/badge/PyCharm-239120.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Jupyter](https://img.shields.io/badge/Jupyter-E95420.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Spring ToolSuite](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/GabrielFelipeS)
 
+<!--
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+</p>
+-->
 
-
-### Sistemas Operacionais <img src="https://th.bing.com/th/id/R.0fcbc1380014a0c504d7d76751da70c7?rik=wxoMNDUsaXZ60g&riu=http%3a%2f%2fwww.aaanimations.com%2fwindowsxpdog22dp.gif&ehk=iCg79Cf%2fkos%2fn%2fQHiuvRfhx9zMe8xX4tCz0kSx1IR0M%3d&risl=&pid=ImgRaw&r=0" width="21px">
+### Sistemas Operacionais  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/GabrielFelipeS)
@@ -64,7 +87,7 @@
 </picture>
 
 <details>
-    <h2>Estatisticas <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="21px" alt="Git"></h2> 
+    <h2>Estatisticas <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h2> 
     <p align="center">
     <a href="https://github.com/GabrielFelipeS">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielFelipeS&theme=transparent" />

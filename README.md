@@ -30,7 +30,7 @@
 [![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/GabrielFelipeS)
 
 
-### Tecnologias e Framworks <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>
+## Tecnologias e Framworks <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GabrielFelipeS)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielFelipeS)
@@ -39,7 +39,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/GabrielFelipeS) -->
 <!--<img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0297.gif" width="21px">-->
-### IDEs <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  </picture>
+## IDEs <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Pycharm](https://img.shields.io/badge/PyCharm-239120.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Jupyter](https://img.shields.io/badge/Jupyter-E95420.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/GabrielFelipeS)
@@ -65,7 +65,7 @@
 </p>
 -->
 
-### Sistemas Operacionais  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px>
+## Sistemas Operacionais  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/GabrielFelipeS)

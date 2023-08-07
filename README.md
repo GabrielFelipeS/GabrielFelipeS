@@ -103,6 +103,7 @@
     <a href="https://github.com/GabrielFelipeS">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielFelipeS&theme=transparent" />
     </a>
+        <!-- <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=GabrielFelipeS&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"> -->
       <p align="center">
         <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipeS&amp;langs_count=6&amp;theme=transparent&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
       </p>

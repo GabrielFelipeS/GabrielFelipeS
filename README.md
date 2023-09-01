@@ -25,9 +25,9 @@
 
 <!-- [![]()](https://github.com/GabrielFelipeS) -->
 ## Linguagens de programação <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px">
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/GabrielFelipeS)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://github.com/GabrielFelipeS)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)](https://github.com/GabrielFelipeS)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GabrielFelipeS)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/GabrielFelipeS)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=white)](https://github.com/GabrielFelipeS)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/GabrielFelipeS)
@@ -38,18 +38,18 @@
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/GabrielFelipeS)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielFelipeS)
-[![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/GabrielFelipeS)
-[![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/GabrielFelipeS)
+[![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=green)](https://github.com/GabrielFelipeS)
+[![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=purple)](https://github.com/GabrielFelipeS)
 
 
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/GabrielFelipeS) -->
 <!--<img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0297.gif" width="21px">-->
 ## IDEs <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  
-[![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/GabrielFelipeS)
+[![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/GabrielFelipeS)
 [![Pycharm](https://img.shields.io/badge/PyCharm-black.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/GabrielFelipeS)
-[![Jupyter](https://img.shields.io/badge/Jupyter-black.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/GabrielFelipeS)
+[![Jupyter](https://img.shields.io/badge/Jupyter-black.svg?&style=for-the-badge&logo=Jupyter&logoColor=orange)](https://github.com/GabrielFelipeS)
 [![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/GabrielFelipeS)
-[![Spring ToolSuite](https://img.shields.io/badge/Spring_Tool_Suite-black?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/GabrielFelipeS)
+[![Spring ToolSuite](https://img.shields.io/badge/Spring_Tool_Suite-black?style=for-the-badge&logo=spring&logoColor=green)](https://github.com/GabrielFelipeS)
 
 <!--
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
@@ -71,10 +71,10 @@
 -->
 
 ## Sistemas Operacionais  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px>
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/GabrielFelipeS)
-[![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=white)](https://github.com/GabrielFelipeS)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/GabrielFelipeS)
-[![Mint](https://img.shields.io/badge/Linux_Mint-black?style=for-the-badge&logo=linux-mint&logoColor=white)](https://github.com/GabrielFelipeS)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/GabrielFelipeS)
+[![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=red)](https://github.com/GabrielFelipeS)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=orange)](https://github.com/GabrielFelipeS)
+[![Mint](https://img.shields.io/badge/Linux_Mint-black?style=for-the-badge&logo=linux-mint&logoColor=green)](https://github.com/GabrielFelipeS)
 <!--[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GabrielFelipeS) -->
 
 <!--

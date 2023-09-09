@@ -20,8 +20,8 @@
     </a>
   </i>
 </p> 
+<p> <img class="respondive" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></p>
 
-<picture> <img class="respondive" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!-- [![]()](https://github.com/GabrielFelipeS) -->
 ## Linguagens de programação <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px">
@@ -48,7 +48,7 @@
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/GabrielFelipeS)
 [![Pycharm](https://img.shields.io/badge/PyCharm-black.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Jupyter](https://img.shields.io/badge/Jupyter-black.svg?&style=for-the-badge&logo=Jupyter&logoColor=orange)](https://github.com/GabrielFelipeS)
-[![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=darkblue)](https://github.com/GabrielFelipeS)
+[![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse)](https://github.com/GabrielFelipeS)
 [![Spring ToolSuite](https://img.shields.io/badge/Spring_Tool_Suite-black?style=for-the-badge&logo=spring&logoColor=green)](https://github.com/GabrielFelipeS)
 
 <!--

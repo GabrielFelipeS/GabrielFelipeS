@@ -1,4 +1,8 @@
-<h1 align="center">Olá, meu nome é Gabriel <img src="https://user-images.githubusercontent.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">
+  Olá, meu nome é Gabriel
+ <picture> <img src="https://user-images.githubusercontent.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></picture>
+</h1> 
+
 <h2  align="center">Bem-vindo ao meu perfil do Github</h2>
 <p align="center">
 
@@ -38,6 +42,7 @@
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange)](https://github.com/GabrielFelipeS)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/GabrielFelipeS)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=orange)](https://github.com/GabrielFelipeS)
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=green)](https://github.com/GabrielFelipeS)
 [![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=purple)](https://github.com/GabrielFelipeS)
 

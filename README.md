@@ -1,13 +1,13 @@
-<h1 align="center">
+<h1 align="center" style="color: white;">
   Olá, meu nome é Gabriel
  <picture> <img src="https://user-images.githubusercontent.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></picture>
 </h1> 
 
-<h2  align="center">Bem-vindo ao meu perfil do Github</h2>
+<h2  align="center" style="color: white;" >Bem-vindo ao meu perfil do Github</h2>
 <p align="center">
 
 
-  <i>
+  <i style="color: white;">
      Sou um estudante de análise e desenvolvimento de sistemas apaixonado por programação, com ênfase em back-end.</br>
      Estou constantemente explorando o mundo da tecnologia e aprimorando minhas habilidades em desenvolvimento de software.</br> 
      Sempre em busca de novos desafios, estou animado para contribuir com soluções escaláveis e eficientes. 

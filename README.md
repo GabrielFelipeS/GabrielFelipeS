@@ -25,7 +25,7 @@
 
 
 <!-- [![]()](https://github.com/GabrielFelipeS) -->
-## Linguagens de programação <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px">
+## Linguagens de programação <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px"></picture>
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://github.com/GabrielFelipeS)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/GabrielFelipeS)
@@ -46,7 +46,7 @@
 
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/GabrielFelipeS) -->
 <!--<img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0297.gif" width="21px">-->
-## IDEs <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  
+## IDEs <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  </picture>
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/GabrielFelipeS)
 [![Pycharm](https://img.shields.io/badge/PyCharm-black.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Jupyter](https://img.shields.io/badge/Jupyter-black.svg?&style=for-the-badge&logo=Jupyter&logoColor=orange)](https://github.com/GabrielFelipeS)
@@ -72,7 +72,7 @@
 </p>
 -->
 
-## Sistemas Operacionais  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px>
+## Sistemas Operacionais  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px> </picture>
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/GabrielFelipeS)
 [![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=red)](https://github.com/GabrielFelipeS)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=orange)](https://github.com/GabrielFelipeS)
@@ -94,7 +94,7 @@
 </picture>
 
 <details>
-    <h2>Estatisticas <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h2> 
+    <h2>Estatisticas  <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> </picture> </h2>  
     <p align="center">
     <a href="https://github.com/GabrielFelipeS">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielFelipeS&theme=transparent" />

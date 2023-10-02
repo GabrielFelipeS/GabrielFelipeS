@@ -26,13 +26,16 @@
 
 <!-- [![]()](https://github.com/GabrielFelipeS) -->
 ## Linguagens de programação <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px"></picture>
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://github.com/GabrielFelipeS)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)](https://github.com/GabrielFelipeS)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/GabrielFelipeS)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=lightpurple)](https://github.com/GabrielFelipeS)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=blue)](https://github.com/GabrielFelipeS)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/GabrielFelipeS)
 [![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/GabrielFelipeS)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=lightpurple)](https://github.com/GabrielFelipeS)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/GabrielFelipeS)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=blue)](https://github.com/GabrielFelipeS)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://github.com/GabrielFelipeS)
+
+
+
 
 
 ## Tecnologias e Frameworks <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>

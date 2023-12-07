@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h1 align="center" style="color: white;">Olá, meu nome é Gabriel<picture> <img src="https://user-images.githubusercontent.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></picture></h1> 
 
 <h2  align="center" style="color: white;" >Bem-vindo ao meu perfil do Github</h2>
@@ -14,14 +15,12 @@
      </p>
     <a href="https://www.linkedin.com/in/gabriel-santos-b53612227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div> 
-    <!-- 
-      https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black 
-      https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
-    -->
+   <picture><img  align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width ="35%"></picture>
     </a>
   </i>
 </p> 
-<p> <img class="respondive" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></p>
+
+
 
 
 <!-- [![]()](https://github.com/GabrielFelipeS) -->

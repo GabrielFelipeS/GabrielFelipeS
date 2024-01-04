@@ -24,7 +24,7 @@
 
 
 <!-- [![]()](https://github.com/GabrielFelipeS) -->
-## Linguagens de programação <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px"></picture>
+## Linguagens de programação <picture> <img src = "https://github.com/GabrielFelipeS/GabrielFelipeS/assets/108304564/1d81deb7-a828-40f9-bd7c-bfe331f1504f" width = 35px> </picture> 
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)](https://github.com/GabrielFelipeS)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/GabrielFelipeS)
 [![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/GabrielFelipeS)
@@ -81,7 +81,8 @@
 [![Mint](https://img.shields.io/badge/Linux_Mint-black?style=for-the-badge&logo=linux-mint&logoColor=green)](https://github.com/GabrielFelipeS)
 <!--[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GabrielFelipeS) -->
 
-## Desafios de Código
+## Desafios de Código   <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px"></picture>
+
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Kaiz3n)
 [![CodeWars](https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=CodeWars&logoColor=red)](https://www.codewars.com/users/GabrielFelipeS)

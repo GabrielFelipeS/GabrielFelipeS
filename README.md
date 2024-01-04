@@ -81,6 +81,13 @@
 [![Mint](https://img.shields.io/badge/Linux_Mint-black?style=for-the-badge&logo=linux-mint&logoColor=green)](https://github.com/GabrielFelipeS)
 <!--[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GabrielFelipeS) -->
 
+## Desafios de Código
+
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Kaiz3n)
+[![CodeWars](https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=CodeWars&logoColor=red)](https://www.codewars.com/users/GabrielFelipeS)
+[![Exercism](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=Exercism&logoColor=purple)](https://exercism.org/profiles/GabrielFelipeS)
+[![Leetcode](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=Leetcode&logoColor=lightpurple)](https://leetcode.com/GabrielFelipeS/)
+
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />

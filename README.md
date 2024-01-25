@@ -104,17 +104,17 @@
 </picture>
 
 <details>
-    <h2>Estatisticas  <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> </picture> </h2>  
+    <h2>Estatisticas  <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> </picture> </h2>  
     <p align="center">
     <a href="https://github.com/GabrielFelipeS">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielFelipeS&theme=transparent" />
     </a>
     <a href="https://github.com/GabrielFelipeS">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFelipeS&hide_border=true&card_width=338&theme=transparent" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielFelipeS&theme=transparent"/>
     </a>
-    <a href="https://github.com/GabrielFelipeS">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielFelipeS&theme=transparent" />
-    </a>
+    <!-- <a href="https://github.com/GabrielFelipeS">
+      <img src="https://github-readme-stats.vercel.app/api?username=gabrielfelipes&hide_border=false&include_all_commits=true&count_private=true" />
+    </a> -->
         <!-- <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=GabrielFelipeS&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"> -->
       <p align="center">
         <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipeS&amp;langs_count=6&amp;theme=transparent&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>

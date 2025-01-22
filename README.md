@@ -20,9 +20,6 @@
   </i>
 </p> 
 
-
-
-
 <!-- [![]()](https://github.com/GabrielFelipeS) -->
 ## Linguagens de programação <picture> <img src = "https://github.com/GabrielFelipeS/GabrielFelipeS/assets/108304564/1d81deb7-a828-40f9-bd7c-bfe331f1504f" width = 35px> </picture> 
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)](https://github.com/GabrielFelipeS)
@@ -112,13 +109,14 @@
     <a href="https://github.com/GabrielFelipeS">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielFelipeS&theme=transparent"/>
     </a>
+      
     <!-- <a href="https://github.com/GabrielFelipeS">
       <img src="https://github-readme-stats.vercel.app/api?username=gabrielfelipes&hide_border=false&include_all_commits=true&count_private=true" />
     </a> -->
         <!-- <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=GabrielFelipeS&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"> -->
-      <p align="center">
+<!--       <p align="center">
         <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipeS&amp;langs_count=6&amp;theme=transparent&amp;layout=compact&amp;hide_border=true" alt="gabriel :: overall Top Langs "></a>
-      </p>
+      </p> -->
     </a>
   </p>
 </details>
